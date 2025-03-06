@@ -1,0 +1,31 @@
+# GitHub Pages Configuration
+title: Dr. Kay Gladen | KI-Keynote Speaker
+description: Experte für Künstliche Intelligenz und Keynote Speaker für Fachveranstaltungen und Konferenzen
+lang: de-DE
+author: Dr. Kay Gladen
+
+# Theme settings - using a minimal theme that allows for custom styling
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Basic settings
+url: ""
+baseurl: ""
+
+# Social media
+social:
+  email: kontakt@kay-gladen.de
+  linkedin: kay-gladen
+  xing: kay.gladen
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - assets/css/style.scss
