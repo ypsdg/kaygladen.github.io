@@ -69,9 +69,9 @@ description: Experte für Künstliche Intelligenz und Keynote Speaker für Fachv
 
   <div class="testimonial">
     <blockquote>
-      "Dr. Gladen hat es geschafft, unserem Führungsteam die komplexen Zusammenhänge der KI-Technologie verständlich zu vermitteln und konkrete Handlungsoptionen aufzuzeigen. Sein Vortrag war der Höhepunkt unserer Strategietagung."
+      "und konkrete Handlungsoptionen aufzuzeigen. Sein Vortrag war der Höhepunkt unserer Strategietagung."
     </blockquote>
-    <p class="author">— Prof. Dr. Martina Weber, Vorstandsvorsitzende, TechInnovation GmbH</p>
+    <p class="author">— ion GmbH</p>
   </div>
 
   <div class="testimonial">
