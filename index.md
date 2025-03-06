@@ -83,7 +83,7 @@ description: Experte für Künstliche Intelligenz und Keynote Speaker für Fachv
 
   <div class="testimonial">
     <blockquote>
-      "unserem Innovationsteam wertvolle Impulse gegeben. Seine methodische Herangehensweise und sein umfassendes Fachwissen haben uns geholfen, konkrete KI-Anwendungsfälle für unser Unternehmen zu identifizieren."
+      "serem Innovationsteam wertvolle Impulse gegeben. Seine methodische Herangehensweise und sein umfassendes Fachwissen haben uns geholfen, konkrete KI-Anwendungsfälle für unser Unternehmen zu identifizieren."
     </blockquote>
     <p class="author">— on, Industrie 4.0 AG</p>
   </div>
